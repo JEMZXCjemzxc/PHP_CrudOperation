@@ -1,0 +1,7 @@
+create DATABASE NAME - crudOP
+create table name - students
+id (6) AUTO-INCREMENT - CHECK THE PRIMARY
+name (VARCHAR (191))
+email (VARCHAR (191))
+phone (VARCHAR (191))
+course (VARCHAR (191))
